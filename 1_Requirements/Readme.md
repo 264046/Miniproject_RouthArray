@@ -22,7 +22,7 @@ It is an important characteristic of a system and has a large influence on the s
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![SWOT Analysis](./SWOT_Analysis.jpg)
 
 # 4W&#39;s and 1&#39;H
 
