@@ -2,17 +2,17 @@
 
 ## High Level Design 
 ### Architecture Diagram:
-![HighLevelStructuralDiagram](.\ArchitectureDiagram.jpg)
+![HighLevelStructuralDiagram](./ArchitectureDiagram.jpg)
 
 ---Behaviour
 
 
 ### Usecase Diagram:
-![HighLevelBehaviouralDiagram](.\Usecase.jpg)
+![HighLevelBehaviouralDiagram](./Usecase.jpg)
 
 ## Low Level Design 
 
 --- TBD Structural and Behavioural Diagram
 ### State Diagram
-![StateDiagram](\Statediagram.jpeg  )
+![StateDiagram](./Statediagram.jpeg  )
 ![Usecase](Link to Pic)
