@@ -4,11 +4,7 @@ Visit [Pages for Report -optional](using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI](https://github.com/264046/Miniproject_RouthArray/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/264046/Miniproject_RouthArray/actions/workflows/c-cpp.yml)|
-[![Code Quality - Static Code - Cppcheck](https://github.com/264046/Miniproject_RouthArray/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/264046/Miniproject_RouthArray/actions/workflows/cppcheck.yml)
-[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/264046/Miniproject_RouthArray/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/264046/Miniproject_RouthArray/actions/workflows/CodeQuality_Dynamic.yml)|
-[![Unit Testing - Unity](https://github.com/264046/Miniproject_RouthArray/actions/workflows/unity.yml/badge.svg)](https://github.com/264046/Miniproject_RouthArray/actions/workflows/unity.yml)|
-[![Contribution Check - Git Inspector](https://github.com/264046/Miniproject_RouthArray/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/264046/Miniproject_RouthArray/actions/workflows/gitinspector.yml)
+[![C/C++ CI](https://github.com/264046/Miniproject_RouthArray/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/264046/Miniproject_RouthArray/actions/workflows/c-cpp.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/264046/Miniproject_RouthArray/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/264046/Miniproject_RouthArray/actions/workflows/cppcheck.yml)[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/264046/Miniproject_RouthArray/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/264046/Miniproject_RouthArray/actions/workflows/CodeQuality_Dynamic.yml)|[![Unit Testing - Unity](https://github.com/264046/Miniproject_RouthArray/actions/workflows/unity.yml/badge.svg)](https://github.com/264046/Miniproject_RouthArray/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/264046/Miniproject_RouthArray/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/264046/Miniproject_RouthArray/actions/workflows/gitinspector.yml)
 
 
 ## Folder Structure
