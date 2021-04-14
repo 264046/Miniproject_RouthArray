@@ -53,7 +53,7 @@ void test_auxiliary_equation(void) {
   rth,i=complete_routh__array(rth,0);
   rth=auxiliary_equation(rth,i+1);
   TEST_ASSERT_EQUAL(60, *(rth+4*4));
-  free(rth);
+ // free(rth);
 }
 
 void test_sign_changes(void) {
@@ -63,5 +63,6 @@ void test_sign_changes(void) {
   rth=auxiliary_equation(rth,i+1);
   rth,i=complete_routh__array(rth,i);
   TEST_ASSERT_EQUAL(2, sign_changes(rth));
+  //free(rth);
 }
 
