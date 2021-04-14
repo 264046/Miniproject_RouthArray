@@ -8,7 +8,7 @@
 ### Importance of Stability
 A system is said to be stable, if its output is under control. Otherwise, it is said to be unstable. A stable system produces a bounded output for a given bounded input.
 
-![Response of a stable system](.\research_stablesystemgraph.jfif)
+![Response of a stable system](./research_stablesystemgraph.jfif)
 
 It is an important characteristic of a system and has a large influence on the system's performance. Thus, ensuring the stability of a system is essential to guarantee good performance.
 
@@ -22,7 +22,7 @@ It is an important characteristic of a system and has a large influence on the s
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-![SWOT Analysis](.\SWOT_Analysis.jpg)
+![SWOT Analysis](./SWOT_Analysis.jpg)
 
 # 4W&#39;s and 1&#39;H
 
