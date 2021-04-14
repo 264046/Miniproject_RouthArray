@@ -5,18 +5,18 @@ PROJECT_NAME = routh_array
 BUILD = build
 
 # All source code files
-SRC = src\auxiliary_equation.c\
-src\complete_routh_array.c\
-src\sign_changes.c\
-src\start_routh_array.c\
+SRC = src/auxiliary_equation.c\
+src/complete_routh_array.c\
+src/sign_changes.c\
+src/start_routh_array.c\
 
 # All test source files
 TEST_SRC = src\auxiliary_equation.c\
-src\complete_routh_array.c\
-src\sign_changes.c\
-src\start_routh_array.c\
-test\test_routh_array.c\
-unity\unity.c\
+src/complete_routh_array.c\
+src/sign_changes.c\
+src/start_routh_array.c\
+test/test_routh_array.c\
+unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
