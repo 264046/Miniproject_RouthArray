@@ -19,8 +19,14 @@ It is an important characteristic of a system and has a large influence on the s
 ## Cost and Features
 ![Description](Link to Pic)
 -- Content 
+
+
 ## Defining Our System
-    -- TBD
+![DefineSystem](./DefineSystem.jpeg)
+
+The program needs an input consisting of coefficients of characteristic equation in descending order of power and will form a Routh array to determine whether the system is stable or not.
+
+
 ## SWOT ANALYSIS
 ![SWOT Analysis](./SWOT_Analysis.jpg)
 
