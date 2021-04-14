@@ -1,8 +1,6 @@
 #include "auxiliary_equation.h"
 #include "source_1.h"
 
-int len; 
-
 float* auxiliary_equation(float *rth,int i)
 {
     int pwr=len-i;
