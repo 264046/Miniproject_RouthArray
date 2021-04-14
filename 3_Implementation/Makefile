@@ -11,7 +11,7 @@ src/sign_changes.c\
 src/start_routh_array.c\
 
 # All test source files
-TEST_SRC = src\auxiliary_equation.c\
+TEST_SRC = src/auxiliary_equation.c\
 src/complete_routh_array.c\
 src/sign_changes.c\
 src/start_routh_array.c\
