@@ -17,17 +17,12 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+SF ID |  Name   |    Features    | Issues Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No     
+`264046` | Anoop Menon  |Auxiliary equation, Row starting with 0    | X No     | X No   |4 No   |4 No     
+   
 
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
-3. ...
-4. ...
-
-
+1. Initially, matrices of 'int' type were used to store Routh arrays. But, during calculations, decimal numbers can arise, so the matrices were changed to float.
 
