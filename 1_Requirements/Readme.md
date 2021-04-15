@@ -17,9 +17,7 @@ It is an important characteristic of a system and has a large influence on the s
 * Relative stability can be easily determined.
 
 ## Cost and Features
-![Description](Link to Pic)
--- Content 
-
+Features include going around the 2 special cases while forming a routh array, namely a row of only 0s or a row starting with a 0.
 
 ## Defining Our System
 ![DefineSystem](./DefineSystem.jpeg)
