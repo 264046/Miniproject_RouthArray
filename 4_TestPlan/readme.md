@@ -1,6 +1,6 @@
 # TEST PLAN:
 
-## Table no: High level test plan
+## High level test plan
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
@@ -8,7 +8,7 @@
 |  H_02       |Inputting coefficients should give routh array and result|Coefficients of characterisitc matrix|Routh array and result|Success|Requirement based    |
 |  H_03       |Memory should be freed when program shuts down|  Pointers|No memory leaks|Success|Technical|
 
-## Table no: Low level test plan
+## Low level test plan
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
